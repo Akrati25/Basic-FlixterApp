@@ -30,9 +30,11 @@ The following optional features are implemented:
 Here's a walkthrough of implemented user stories:
 
 In portrait mode, the layout look like:
+
 <img src='Flixter-Walkthrough-Portrait.gif' title='Portrait Walkthrough' width='' alt='Portrait Walkthrough' />
 
 In landscape mode, the layout look like:
+
 <img src='Flixter-Walkthrough-Landscape.gif' title='Landscape Walkthrough' width='' alt='Landscape Walkthrough' />
 
 ### Notes

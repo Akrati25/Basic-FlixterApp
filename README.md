@@ -22,7 +22,7 @@
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src="Flixterpart2-Walkthrough.gif" width=250><br>
+<img src="FlixterPart2-Walkthrough.gif" width=250><br>
 
 ### Notes
 
